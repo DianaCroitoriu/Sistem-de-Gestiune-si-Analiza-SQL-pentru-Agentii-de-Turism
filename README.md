@@ -1,4 +1,4 @@
-# Sistem-de-Gestiune-i-Analiz-SQL-pentru-Agen-ii-de-Turism
+# Sistem-de-Gestiune-si-Analiza-SQL-pentru-Agentii-de-Turism
 Acest repository conține proiectarea, popularea și interogarea unei baze de date relaționale complexe (`TURISM2`)
 
 Proiectul este structurat sub formă de teme practice care rezolvă scenarii reale de business, utilizând concepte avansate de SQL.
